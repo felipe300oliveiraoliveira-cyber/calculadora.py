@@ -72,4 +72,6 @@ else:
 	•	Python 3
 	•	Git e GitHub
 
+projeto desenvlvido pelo curso analista de dados da EBAC.
+
 Autor:  Filipe Oliveira
