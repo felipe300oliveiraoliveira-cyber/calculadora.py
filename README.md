@@ -1,4 +1,4 @@
-# calculadora em python e shel script
+# calculadora em python e shell script
 logica de programação
 
 Projeto simples de calculadora desenvolvido em:
