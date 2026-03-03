@@ -71,6 +71,5 @@ else:
 	•	Shell Script (Linux)
 	•	Python 3
 	•	Git e GitHub
- Filipe Oliveira: Autor
 
-Filipe Oliveira
+Autor:  Filipe Oliveira
